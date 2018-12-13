@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var Menu = require('menu')
+var Menu = require('component-menu')
   , o = require('jquery');
 
 /**
